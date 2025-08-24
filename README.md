@@ -145,7 +145,7 @@ VLAN Name Status Ports
 
 ¿Consultas, sugerencias o mejoras?  
 **Autor:** Luciano Joaquín Toledo  
-**Mail:** [luciano.toledo@email.com](mailto:luciano.toledo@email.com)
+**Mail:** [ljtoledo@itel.edu.ar](mailto:ljtoledo@itel.edu.ar)
 
 ---
 
