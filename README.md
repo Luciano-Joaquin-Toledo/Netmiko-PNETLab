@@ -25,18 +25,7 @@ Cada acción queda documentada tanto en la consola como en el archivo de log `ne
 
 ## 🏗️ Topología sugerida
 
-```
-+------------------+      Trunk      +------------------+
-|   Cisco Switch   |-----------------|   Cisco Switch   |
-|   Principal      |                 |   Remoto         |
-+--------+---------+                 +--------+---------+
-         |                                  |
-         |                                  |
-     +---v---+                          +---v---+
-     | Mikrotik|                        | Mikrotik|
-     | Router  |                        | Router  |
-     +--------+                        +--------+
-```
+[]
 
 ---
 
