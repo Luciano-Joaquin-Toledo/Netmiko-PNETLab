@@ -25,7 +25,7 @@ Cada acción queda documentada tanto en la consola como en el archivo de log `ne
 
 ## 🏗️ Topología sugerida
 
-[![Inter VLAN](Imagenes/5-Inter%20VLAN%20Routing%20-%20Router%20(Cisco)%20on%20a%20Stick/Esquema%205.png)]
+[![Inter VLAN](topologia.png)]
 
 ---
 
