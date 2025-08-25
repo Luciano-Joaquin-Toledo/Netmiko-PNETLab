@@ -25,7 +25,7 @@ Cada acción queda documentada tanto en la consola como en el archivo de log `ne
 
 ## 🏗️ Topología sugerida
 
-[![Inter VLAN](topologia.png)]
+![Inter VLAN](topologia.png)
 
 ---
 
